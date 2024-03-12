@@ -1,4 +1,5 @@
 # PushOpsKit
+## I am no longer maintaining this project. I no longer work at a company that uses Push for time, so I will be unable to test any changes I make. If anyone else would like to take over, send me a DM.
 ### A Swift package for communicating with the [Push Operations](https://www.pushoperations.com) application API. 
 
 > **Warning**
